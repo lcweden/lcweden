@@ -4,14 +4,70 @@
   height="640"
   xmlns="http://www.w3.org/2000/svg"
 >
-  <circle cx="0" cy="0" r="40" stroke="hsla(0, 0%, 70%, 0.3)" stroke-width="1" fill="none" />
-  <circle cx="0" cy="0" r="77" stroke="hsla(0, 0%, 70%, 0.3)" stroke-width="1" fill="none" />
-  <circle cx="0" cy="0" r="96" stroke="hsla(0, 0%, 70%, 0.3)" stroke-width="1" fill="none" />
-  <circle cx="0" cy="0" r="121" stroke="hsla(0, 0%, 70%, 0.3)" stroke-width="1" fill="none" />
-  <circle cx="0" cy="0" r="195" stroke="hsla(0, 0%, 70%, 0.3)" stroke-width="1" fill="none" />
-  <circle cx="0" cy="0" r="231" stroke="hsla(0, 0%, 70%, 0.3)" stroke-width="1" fill="none" />
-  <circle cx="0" cy="0" r="273" stroke="hsla(0, 0%, 70%, 0.3)" stroke-width="1" fill="none" />
-  <circle cx="0" cy="0" r="300" stroke="hsla(0, 0%, 70%, 0.3)" stroke-width="1" fill="none" />
+  <circle
+    cx="0"
+    cy="0"
+    r="40"
+    stroke="hsla(0, 0%, 70%, 0.3)"
+    stroke-width="1"
+    fill="none"
+  />
+  <circle
+    cx="0"
+    cy="0"
+    r="77"
+    stroke="hsla(0, 0%, 70%, 0.3)"
+    stroke-width="1"
+    fill="none"
+  />
+  <circle
+    cx="0"
+    cy="0"
+    r="96"
+    stroke="hsla(0, 0%, 70%, 0.3)"
+    stroke-width="1"
+    fill="none"
+  />
+  <circle
+    cx="0"
+    cy="0"
+    r="121"
+    stroke="hsla(0, 0%, 70%, 0.3)"
+    stroke-width="1"
+    fill="none"
+  />
+  <circle
+    cx="0"
+    cy="0"
+    r="195"
+    stroke="hsla(0, 0%, 70%, 0.3)"
+    stroke-width="1"
+    fill="none"
+  />
+  <circle
+    cx="0"
+    cy="0"
+    r="231"
+    stroke="hsla(0, 0%, 70%, 0.3)"
+    stroke-width="1"
+    fill="none"
+  />
+  <circle
+    cx="0"
+    cy="0"
+    r="273"
+    stroke="hsla(0, 0%, 70%, 0.3)"
+    stroke-width="1"
+    fill="none"
+  />
+  <circle
+    cx="0"
+    cy="0"
+    r="300"
+    stroke="hsla(0, 0%, 70%, 0.3)"
+    stroke-width="1"
+    fill="none"
+  />
   <g id="sun">
     <circle cx="0" cy="0" r="20" fill="#FDB7EA" />
   </g>
@@ -71,6 +127,14 @@
     />
   </g>
   <g id="saturn">
+    <circle
+      cx="231"
+      cy="0"
+      r="13"
+      stroke="#F9E79F"
+      stroke-width="0.5"
+      fill="none"
+    />
     <circle cx="231" cy="0" r="10" fill="#F9E79F" />
     <animateTransform
       attributeName="transform"
