@@ -1,0 +1,170 @@
+<svg
+  viewBox="-320 -320 640 640"
+  width="640"
+  height="640"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <circle
+    cx="0"
+    cy="0"
+    r="40"
+    stroke="hsla(0, 0%, 70%, 0.3)"
+    stroke-width="1"
+    fill="none"
+  />
+  <circle
+    cx="0"
+    cy="0"
+    r="77"
+    stroke="hsla(0, 0%, 70%, 0.3)"
+    stroke-width="1"
+    fill="none"
+  />
+  <circle
+    cx="0"
+    cy="0"
+    r="96"
+    stroke="hsla(0, 0%, 70%, 0.3)"
+    stroke-width="1"
+    fill="none"
+  />
+  <circle
+    cx="0"
+    cy="0"
+    r="121"
+    stroke="hsla(0, 0%, 70%, 0.3)"
+    stroke-width="1"
+    fill="none"
+  />
+  <circle
+    cx="0"
+    cy="0"
+    r="195"
+    stroke="hsla(0, 0%, 70%, 0.3)"
+    stroke-width="1"
+    fill="none"
+  />
+  <circle
+    cx="0"
+    cy="0"
+    r="231"
+    stroke="hsla(0, 0%, 70%, 0.3)"
+    stroke-width="1"
+    fill="none"
+  />
+  <circle
+    cx="0"
+    cy="0"
+    r="273"
+    stroke="hsla(0, 0%, 70%, 0.3)"
+    stroke-width="1"
+    fill="none"
+  />
+  <circle
+    cx="0"
+    cy="0"
+    r="300"
+    stroke="hsla(0, 0%, 70%, 0.3)"
+    stroke-width="1"
+    fill="none"
+  />
+  <g id="sun">
+    <circle cx="0" cy="0" r="20" fill="#FDB7EA" />
+  </g>
+  <g id="mercury">
+    <circle cx="40" cy="0" r="5" fill="#D3D3D3" />
+    <animateTransform
+      attributeName="transform"
+      type="rotate"
+      from="0 0 0"
+      to="360 0 0"
+      dur="10s"
+      repeatCount="indefinite"
+    />
+  </g>
+  <g id="venus">
+    <circle cx="77" cy="0" r="7" fill="#F9E79F" />
+    <animateTransform
+      attributeName="transform"
+      type="rotate"
+      from="0 0 0"
+      to="360 0 0"
+      dur="17s"
+      repeatCount="indefinite"
+    />
+  </g>
+  <g id="earth">
+    <circle cx="96" cy="0" r="7" fill="#AEDFF7" />
+    <animateTransform
+      attributeName="transform"
+      type="rotate"
+      from="0 0 0"
+      to="360 0 0"
+      dur="22s"
+      repeatCount="indefinite"
+    />
+  </g>
+  <g id="mars">
+    <circle cx="121" cy="0" r="6" fill="#F5B7B1" />
+    <animateTransform
+      attributeName="transform"
+      type="rotate"
+      from="0 0 0"
+      to="360 0 0"
+      dur="26s"
+      repeatCount="indefinite"
+    />
+  </g>
+  <g id="jupiter">
+    <circle cx="195" cy="0" r="12" fill="#FAD7A0" />
+    <animateTransform
+      attributeName="transform"
+      type="rotate"
+      from="0 0 0"
+      to="360 0 0"
+      dur="40s"
+      repeatCount="indefinite"
+    />
+  </g>
+  <g id="saturn">
+    <circle
+      cx="231"
+      cy="0"
+      r="13"
+      stroke="#F9E79F"
+      stroke-width="0.5"
+      fill="none"
+    />
+    <circle cx="231" cy="0" r="10" fill="#F9E79F" />
+    <animateTransform
+      attributeName="transform"
+      type="rotate"
+      from="0 0 0"
+      to="360 0 0"
+      dur="47s"
+      repeatCount="indefinite"
+    />
+  </g>
+  <g id="uranus">
+    <circle cx="273" cy="0" r="8" fill="#A3E4D7" />
+    <animateTransform
+      attributeName="transform"
+      type="rotate"
+      from="0 0 0"
+      to="360 0 0"
+      dur="55s"
+      repeatCount="indefinite"
+    />
+  </g>
+  <g id="neptune">
+    <circle cx="300" cy="0" r="8" fill="#85C1E9" />
+    <animateTransform
+      attributeName="transform"
+      type="rotate"
+      from="0 0 0"
+      to="360 0 0"
+      dur="60s"
+      repeatCount="indefinite"
+    />
+  </g>
+</svg>
